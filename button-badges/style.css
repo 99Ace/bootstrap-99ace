@@ -1,0 +1,27 @@
+.btn {
+    padding: 2px 20px;
+    border-radius: 24px;
+}
+.bg-readmore {
+    background-color: rgb(89, 161, 223);
+    color: white;
+}
+.bg-readmore:hover {
+    background-color: rgb(76, 137, 189);
+}
+.btn-outline-info {
+    color: #d8862d;
+    border-color: #d8862d;
+}
+.text-danger {
+    color: blue !important;
+}
+.btn-tag {
+    text-decoration: none;
+    color : darkorange;
+    border: 1px solid darkorange;
+    padding: 2px 4px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 2px;
+}

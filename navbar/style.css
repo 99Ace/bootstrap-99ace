@@ -1,0 +1,21 @@
+.navbar-brand>img{
+    height: 45px;
+}
+.nav-icon {
+    font-size:1.4rem;
+    color: red;
+}
+.nav-link, .dropdown-item {
+    font-family: cursive;
+    font-size: 1.1rem;
+    color: rgb(126, 114, 114) !important;
+}
+.nav-link:hover {
+    color: rgb(41, 41, 41) !important;
+    padding-bottom: 1px;
+    border-bottom: 1px solid rgb(41, 41, 41);
+}
+.dropdown-item:hover {
+    color: rgb(41, 41, 41) !important;
+    background-color: rgb(254, 229, 229);
+}
