@@ -1,0 +1,70 @@
+/* mobile styling x-small small */
+/* Overall */
+p {
+    font-size: 14px;
+}
+
+.navbar-brand>img {
+    height: 35px;
+}
+.mfs-collapse-btn {
+    color : #ff884a !important;
+    border: 2px solid #ff884a !important;
+}
+.nav-link {
+    text-align: center;
+    font-size: 14px;
+}
+.nav-link:hover {
+    color:#ff884a !important
+}
+.btn {
+    border-radius: 24px;
+    padding: 2px 36px;
+}
+.btn-register {
+    background-color: #ff884a !important;
+    color: white;
+    line-height: 1.5;
+}
+.btn-register:hover {
+    background-color: #e6651f !important;
+    color: white;
+    line-height: 1.5;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    padding: 15px;
+    border-radius: 50%;
+    border: 5px solid rgb(79, 106, 125)
+}
+#learning h3>span {
+    font-size: 2.5rem;
+}
+.text-playing {
+    color:rgb(79, 106, 125) !important;
+}
+.text-grey {
+    color:rgb(201, 201, 201)
+}
+
+
+/* ipad styling - medium */
+@media screen and (min-width:768px) {
+    
+}
+/* ipad pro styling : large */
+@media screen and (min-width:992px) {
+    
+}
+/* laptop styling  xl */
+@media screen and (min-width:1200px) {
+    
+}
+/* xxl devices  */
+@media screen and (min-width:1400px) {
+    
+}
+
